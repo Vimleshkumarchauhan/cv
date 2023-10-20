@@ -1,0 +1,54 @@
+.title{
+    width: 100%;
+    height:130px;
+    background-color: #9EDDFF;
+    line-height: 2;
+    font-size: large;
+}
+
+body{
+    margin:0;
+    background-color: #E4F1FF;
+}
+
+img{
+    height: 200px;
+    border-radius: 100%;
+    position: absolute;
+    left:1000px;
+    top: 20px;
+}
+
+
+p{
+    margin: 0px 5px;
+}
+
+.about-me{
+    color: #191717;
+    text-align: center;
+}
+
+.skills{
+    width:100%;
+    height: 300px;
+    background-color:#A6D0DD;
+}
+
+.languages{
+    text-align: center;
+    font-size: large;
+    line-height:1.5;
+    position: relative;
+    left: 350px;
+}
+
+.intrest{
+    text-align: center;
+    margin: auto;
+    font-size: large;
+    line-height: 1.5;
+    position: relative;
+    left: 50px;
+}
+
